@@ -16,11 +16,10 @@ def parse_csv(csv_file_name):
             if line_count == 0:
                 line_count += 1
             elif row["Day"] == str(this_day):
-                r = json.dumps(row)
+                r = json.dumps(row) 
                 print(r)
             else:
                 line_count += 1
-        print(f'Processed {line_count} lines.')
 
 
 cwd = os.getcwd()
