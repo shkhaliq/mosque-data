@@ -1,0 +1,13 @@
+{
+  "mosques": [
+    {
+      "id": 1,
+      "address": "3334 Danforth Avenue, Toronto, ON, M1L 1C6",
+      "name": "Baitul Mukarram",
+      "longitude": -79.233238,
+      "latitude": 43.777702,
+      "website_url": "http://www.baitulmukarramtoronto.ca",
+      "phone_no": 4167238493
+    }
+  ]
+}

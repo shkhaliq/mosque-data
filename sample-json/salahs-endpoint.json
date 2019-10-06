@@ -1,0 +1,39 @@
+{
+    "salahs": [
+        {
+            "iqamah": "7:00 AM",
+            "begins": "6:45 AM",
+            "name": "Fajr"
+        },
+        {
+            "iqamah": "1:00 AM",
+            "begins": "6:45 AM",
+            "name": "Zuhr"
+        },
+        {
+            "iqamah": "4:15 PM",
+            "begins": "6:45 AM",
+            "name": "Asr"
+        },
+        {
+            "iqamah": "5:37 PM",
+            "begins": "6:45 AM",
+            "name": "Maghrib"
+        },
+        {
+            "iqamah": "7:45 PM",
+            "begins": "6:45 AM",
+            "name": "Isha"
+        },
+        {
+            "iqamah": "12:50 PM",
+            "begins": "6:45 AM",
+            "name": "1st Juma"
+        },
+        {
+            "iqamah": "2:20 PM",
+            "begins": null,
+            "name": "2nd Juma"
+        }
+    ]
+}
