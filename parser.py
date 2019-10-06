@@ -24,9 +24,10 @@ def parse_csv(csvFile):
 
 
 cwd = os.getcwd()
-os.chdir('/Users/hkhaliq/Downloads/prayer-times/')
-for file in glob.glob("*.csv"):
+os.chdir('prayer-times/')
+for file in glob.glob("**/*.csv"):
     if this_month in file:
+        print(os.path.dirname(file))
         parse_csv(file)
 
 os.chdir(cwd)
