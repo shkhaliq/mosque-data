@@ -8,4 +8,4 @@ language: python
 python:
   - "3.7.3"
 script:
-  - python parser.py
+  - cd raw-csv-data/ && python parser.py
