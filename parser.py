@@ -7,8 +7,8 @@ import json
 this_month = date.today().strftime("%B")
 this_day = date.today().day
 
-def parse_csv(csvFile):
-    with open(csvFile) as csv_file:
+def parse_csv(csv_file_name):
+    with open(csv_file_name) as csv_file:
         csv_reader = csv.DictReader(csv_file)
         line_count = 0
         for row in csv_reader:
@@ -24,9 +24,10 @@ def parse_csv(csvFile):
 
 
 cwd = os.getcwd()
-os.chdir('/Users/hkhaliq/Downloads/prayer-times/')
-for file in glob.glob("*.csv"):
+os.chdir('prayer-times/')
+for file in glob.glob("**/*.csv"):
     if this_month in file:
+        print(os.path.dirname(file))
         parse_csv(file)
 
 os.chdir(cwd)
