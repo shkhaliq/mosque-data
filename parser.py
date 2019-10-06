@@ -7,8 +7,8 @@ import json
 this_month = date.today().strftime("%B")
 this_day = date.today().day
 
-def parse_csv(csvFile):
-    with open(csvFile) as csv_file:
+def parse_csv(csv_file_name):
+    with open(csv_file_name) as csv_file:
         csv_reader = csv.DictReader(csv_file)
         line_count = 0
         for row in csv_reader:
