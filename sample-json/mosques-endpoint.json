@@ -1,13 +1,239 @@
 {
   "mosques": [
     {
-      "id": 1,
       "address": "3334 Danforth Avenue, Toronto, ON, M1L 1C6",
       "name": "Baitul Mukarram",
       "longitude": -79.233238,
       "latitude": 43.777702,
       "website_url": "http://www.baitulmukarramtoronto.ca",
       "phone_no": 4167238493
-    }
+    },
+    {
+      "address": null,
+      "name": "Anjuman E Anwarul Islam of Malton",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Cambridge Muslim Society",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Ibrahim Jame Mosque",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "International Muslims Organization of Toronto",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Islamic Foundation of Toronto",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Islamic Institute of Toronto",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Islamic Society of Toronto",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Jame Masjid Huzaifah",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Madinah Masjid",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Markham Masjid",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Markham Muslim Association",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Masjid Al Jannah",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Masjid El Noor",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Masjid Omar Farookh",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Masjid Vaughan",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Masjid Zakariaya Toronto",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Masjid ut Taqwa Islamic Organization",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Masjidur Rahmah",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Mosquee Madani",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Muslim Society of Guelph",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Pickering Islamic Centre",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Scarborough Muslim Association",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Spiritual Society Canada",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Thorncliffe Musallah",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Townline Muslim Centre  Cambridge",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Vaughan Islamic Community Centre",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Windsor Islamic Association",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
+    {
+      "address": null,
+      "name": "Woodstock Masjid",
+      "longitude": null,
+      "latitude": null,
+      "website_url": null,
+      "phone_no": null
+    },
   ]
 }
+
+
+
