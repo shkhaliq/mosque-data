@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d @sample-json/mosques-endpoint.json 'https://$FIREBASE_PROJECT_ID.firebaseio.com/mosques.json'
